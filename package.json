@@ -1,11 +1,8 @@
 {
   "name": "firefox-hls",
   "version": "0.0.1",
-  "description": "Extension that allows native HLS playback in Firefox browser — Edit",
+  "description": "Extension that allows native HLS playback in Firefox browser",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mangui/firefox-hls.git"
@@ -18,7 +15,7 @@
   "author": "Guillaume du Pontavice",
   "engines": {
     "firefox": ">=38.0a1"
-  },  
+  },
   "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/mangui/firefox-hls/issues"
