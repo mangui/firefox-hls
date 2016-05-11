@@ -1,5 +1,5 @@
 {
-  "name": "firefox-hls",
+  "name": "native-hls",
   "version": "0.0.1",
   "description": "Extension that allows native HLS playback in Firefox browser",
   "main": "index.js",
